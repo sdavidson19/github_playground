@@ -7,3 +7,4 @@ New-new line
 New line to test token
 Another line is added
 
+New feature will be integrated soon
